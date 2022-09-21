@@ -1,0 +1,7 @@
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.pdb

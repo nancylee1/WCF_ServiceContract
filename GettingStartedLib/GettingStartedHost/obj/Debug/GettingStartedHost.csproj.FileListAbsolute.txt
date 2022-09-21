@@ -1,0 +1,12 @@
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedLib.dll.config
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CopyComplete
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\nancy\Desktop\repos\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
